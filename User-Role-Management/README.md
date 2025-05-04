@@ -23,7 +23,7 @@ src/ ├── main/ │ ├── java/ │ │ └── com/example/usermanag
 
 1. Clone the repository:
 
-```git clone https://github.com/muntahaaa/User-Role-Management.git```
+```git clone https://github.com/muntahaaa/Software-design-SE-606/tree/main/User-Role-Management```
 ```cd usermanagement```
 ## 1.Build the project:
 ```mvn clean install```
